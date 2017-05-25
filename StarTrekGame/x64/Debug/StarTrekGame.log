@@ -1,0 +1,15 @@
+﻿  UploadImage.cpp
+  TimerClass.cpp
+  Starship.cpp
+  Movement.cpp
+  Main.cpp
+  Level1.cpp
+c:\temp\startrekgame\startrekgame\level1.cpp(215): error C2086: 'int random': redefinition
+  c:\temp\startrekgame\startrekgame\level1.cpp(214): note: see declaration of 'random'
+  InputClass.cpp
+  Graphics.cpp
+c:\temp\startrekgame\startrekgame\graphics.cpp(219): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\temp\startrekgame\startrekgame\graphics.cpp(220): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  GameLevel.cpp
+  GameController.cpp
+  Generating Code...

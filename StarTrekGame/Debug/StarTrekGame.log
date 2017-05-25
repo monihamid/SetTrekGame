@@ -1,0 +1,33 @@
+﻿  UploadImage.cpp
+  TimerClass.cpp
+  Starship.cpp
+  Movement.cpp
+  Main.cpp
+  Level1.cpp
+c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\level1.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\level1.cpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\level1.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\level1.cpp(449): warning C4018: '<': signed/unsigned mismatch
+c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\level1.cpp(480): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(172): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\level1.cpp(523): note: see reference to function template instantiation 'std::pair<float,float>::pair<int,int,void,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=int
+          ]
+  c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\level1.cpp(523): note: see reference to function template instantiation 'std::pair<float,float>::pair<int,int,void,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=int
+          ]
+  InputClass.cpp
+  Graphics.cpp
+c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\graphics.cpp(205): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\computer1\documents\set\courses\semester4\graphics animation sound\assignment03\startrekgame\startrekgame\graphics.cpp(206): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  GameLevel.cpp
+  GameController.cpp
+  Generating Code...
+  StarTrekGame.vcxproj -> C:\Users\computer1\Documents\SET\Courses\semester4\Graphics Animation Sound\Assignment03\StarTrekGame\Debug\StarTrekGame.exe
+  StarTrekGame.vcxproj -> C:\Users\computer1\Documents\SET\Courses\semester4\Graphics Animation Sound\Assignment03\StarTrekGame\Debug\StarTrekGame.pdb (Full PDB)
